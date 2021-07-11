@@ -1,5 +1,3 @@
-
-
 # Express-DOGE
 ExpressCrypto | AutoClaim-Doge
 
@@ -26,38 +24,3 @@ This is a doge generating application using a php program with expresscrypto pay
 * `php bot.php`
 
 **NOTE:** Easy way to earn doge.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-
-
-
-
-
-
-
-
-
